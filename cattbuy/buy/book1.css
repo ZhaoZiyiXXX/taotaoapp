@@ -1,0 +1,48 @@
+.back1{
+    background:  url("shukuang.png") no-repeat;
+    background-position: 25px 15px;
+    background-size: 94% 100%;
+    position: relative;
+}
+#position2{
+    position: relative;
+    top: 25px;
+    left: 9%;
+    z-index: 3;
+    display:block;
+}
+
+#position3{
+     position: relative;
+     left: 68%;
+     bottom: 35px;
+     z-index: 4;
+    display:block;
+ }
+.d-title span{
+    position:absolute;
+    top:10%;
+    left:35%;
+    right: 9%;
+    font-size: 2em;
+    font-family: ¡°Î¢ÈíÑÅºÚ¡±;
+    font-weight: bold;
+    text-align: center£»
+}
+.d-price{
+    position:absolute;
+    top:30%;
+    left:35%;
+    color: orangered;
+    font-size: 1.5em;
+    font-family: ¡°Î¢ÈíÑÅºÚ¡±;
+    font-weight: bold;
+}
+.kucun{
+    position:absolute;
+    top:70%;
+    left:73%;
+    font-size: 1.3em;
+    font-family: ¡°Î¢ÈíÑÅºÚ¡±;
+    font-weight: bold;
+}
