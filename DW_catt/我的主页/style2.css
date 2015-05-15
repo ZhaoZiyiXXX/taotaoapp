@@ -1,0 +1,44 @@
+body{
+    background-image:url("bg_myhomepage.jpg");
+    background-repeat:no-repeat;
+    background-position:center top;
+    width:1334px;
+    height:1334px;
+    font-size:30px;
+}
+
+.rg_icon{
+    margin-top: 46px;
+    margin-left: 460px;
+}
+
+.press_buttonset1{
+    margin-top:105px;
+    margin-left:282px;
+}
+
+.press_buttonset2{
+    margin-top: 17px;
+    margin-left: 282px;
+}
+
+.homepage_button{
+    margin-top:35px;
+    margin-left: 327px;
+}
+
+.buy_button{
+    margin-top:-76px;
+    margin-left: 509px;
+
+}
+
+.sell_button{
+    margin-top: -76px;
+    margin-left: 691px
+}
+
+.my_button{
+    margin-top: -76px;
+    margin-left:873px ;
+}
