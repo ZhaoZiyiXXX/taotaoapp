@@ -6,43 +6,38 @@
 }
 #position2{
     position: relative;
-    top: 25px;
-    left: 9%;
+
     z-index: 3;
     display:block;
 }
 
 #position3{
      position: relative;
-     left: 68%;
-     bottom: 35px;
+
+
      z-index: 4;
     display:block;
  }
 .d-title span{
     position:absolute;
-    top:10%;
-    left:35%;
-    right: 9%;
+
     font-size: 2em;
-    font-family: ¡°Î¢ÈíÑÅºÚ¡±;
+    font-family: ï¿½ï¿½Î¢ï¿½ï¿½ï¿½ÅºÚ¡ï¿½;
     font-weight: bold;
-    text-align: center£»
+    text-align: centerï¿½ï¿½
 }
 .d-price{
     position:absolute;
-    top:30%;
-    left:35%;
+
     color: orangered;
     font-size: 1.5em;
-    font-family: ¡°Î¢ÈíÑÅºÚ¡±;
+    font-family: ï¿½ï¿½Î¢ï¿½ï¿½ï¿½ÅºÚ¡ï¿½;
     font-weight: bold;
 }
 .kucun{
     position:absolute;
-    top:70%;
-    left:73%;
+
     font-size: 1.3em;
-    font-family: ¡°Î¢ÈíÑÅºÚ¡±;
+    font-family: ï¿½ï¿½Î¢ï¿½ï¿½ï¿½ÅºÚ¡ï¿½;
     font-weight: bold;
 }
