@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-    <title>个人资料</title>
+    <title>书籍信息</title>
     <link rel="stylesheet" href="../static/css/bookinfostyle.css">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="../static/css/lib/bootstrap.min.css">
@@ -17,55 +17,48 @@
     <![endif]-->
 </head>
 <body class="container-fluid main">
-<div class="container-fluid">
     <div class="container info">
-        <p class="names">个人资料</p>
+        <div class="names">
+            <p>计算机组成原理</p>
+        </div>
+        <div>
         <table class="infos">
             <tr>
-                <td>学&nbsp;&nbsp;&nbsp;号</td>
-                <td>
-                    <form>
-                        <input type="text" class="inputs" />
-                    </form>
-                </td>
+                <td>作&nbsp;&nbsp;&nbsp;者</td>
+                <td>唐朔飞</td>
             </tr>
             <tr>
-                <td>姓&nbsp;&nbsp;&nbsp;名</td>
-                <td>
-                    <form >
-                        <input type="text" class="inputs" />
-                    </form>
-                </td>
+                <td>版&nbsp;&nbsp;&nbsp;本</td>
+                <td>第二版</td>
             </tr>
             <tr>
-                <td>校&nbsp;&nbsp;&nbsp;区</td>
-                <td>
-                    <form >
-                        <input type="text" class="inputs" />
-                    </form>
-                </td>
+                <td>出版社</td>
+                <td>高等教育出版社</td>
             </tr>
             <tr>
-                <td>楼&nbsp;&nbsp;&nbsp;宇</td>
-                <td>
-                    <form >
-                        <input type="text" class="inputs" />
-                    </form>
-                </td>
+                <td>I S B N</td>
+                <td>9787040223903</td>
             </tr>
             <tr>
-                <td>房&nbsp;&nbsp;&nbsp;号</td>
-                <td>
-                    <form >
-                        <input type="text" class="inputs" />
-                    </form>
-                </td>
+                <td>价&nbsp;&nbsp;&nbsp;格</td>
+                <td>49.00元</td>
+             </tr>
+            <tr>
+                <td>库&nbsp;&nbsp;&nbsp;存</td>
+                <td>49</td>
             </tr>
+             <tr>
+                 <td>
+                 </td>
+                 <td>
+              <div id="addtobag">
+                  <button class="add">加入书包</button>
+             </div>
+                 </td>
+             </tr>
         </table>
-        <div>
-            <input type="submit" value="提交并返回" class="submit" onclick="location.href='settings.html'" />
         </div>
-</div>
+    </div>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="../static/js/jquery-1.11.2.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->

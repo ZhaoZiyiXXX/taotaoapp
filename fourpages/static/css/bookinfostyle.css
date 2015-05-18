@@ -1,0 +1,100 @@
+.main {
+    background: url("../images/bookbg.jpg") no-repeat;
+    background-attachment: scroll ;
+    background-size:cover;
+    height:100%;
+    width: 100%;
+    font-size: 100%;
+}
+.info{
+    width:75%;
+    height:100%;
+    font-family: Calibri ;
+    color: #ffffff;
+    font-weight: 400;
+}
+.names{
+     text-align: center;
+     margin-top: 20px;
+     font-size:2em;
+     background-color:rgba(150,150,150,0.7) ;
+     border-top-left-radius:8px;
+     border-top-right-radius:8px;
+     padding:7%;
+ }
+.infos {
+    width: 100%;
+    font-size:1.3em;
+    margin:0px auto 10px auto;
+    display: block;
+    padding:0 10px;
+    background-color: rgba(179,179,179,0.7);
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+}
+tr{
+    height:40px;
+}
+#addtobag{
+    width:100%;
+    font-size: 1em;
+}
+.add{
+    border: none;
+    background:url("../images/addtobag1.png")no-repeat;
+    background-attachment: scroll ;
+    background-size:contain;
+    float: right;
+}
+.inputs{
+    border-width:1px;
+    border-style: solid;
+    border-color: #ffffff;
+    background-color: transparent;
+    width:85%;
+    margin-left: 10%;
+
+}
+.submit{
+    border: none;
+    background:url("../images/addtobag1.png")no-repeat;
+    background-attachment: inherit ;
+    background-size:100% 100%;
+    font-size: 1em;
+    padding: 4%;
+    float:right;
+}
+.info a{
+    color: #ffffff;
+}
+.info a:link{
+    text-decoration: none;
+}
+.info a:visited{
+    text-decoration: none;
+    color: #ffffff;
+}
+.info a:hover{
+    color: #ffffff;
+    text-decoration: none
+}
+.info a:active{
+    text-decoration: none;
+}
+.info a:focus{
+    outline:none;
+}
+.types{
+    width: 100%;
+    font-size:1.0em;
+}
+.typess{
+    border: none;
+    background:url("../images/addtobag1.png")no-repeat;
+    background-attachment: scroll ;
+    background-size:100% 100%;
+    margin-left: 15%;
+}
+.back{
+    float:right;
+}
