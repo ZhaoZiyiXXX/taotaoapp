@@ -1,43 +1,7 @@
 .back1{
-    background:  url("shukuang.png") no-repeat;
-    background-position: 25px 15px;
+    background:url("shukuang.png") no-repeat;
+    background-position:5% 10%;
     background-size: 94% 100%;
     position: relative;
 }
-#position2{
-    position: relative;
 
-    z-index: 3;
-    display:block;
-}
-
-#position3{
-     position: relative;
-
-
-     z-index: 4;
-    display:block;
- }
-.d-title span{
-    position:absolute;
-
-    font-size: 2em;
-    font-family: ��΢���źڡ�;
-    font-weight: bold;
-    text-align: center��
-}
-.d-price{
-    position:absolute;
-
-    color: orangered;
-    font-size: 1.5em;
-    font-family: ��΢���źڡ�;
-    font-weight: bold;
-}
-.kucun{
-    position:absolute;
-
-    font-size: 1.3em;
-    font-family: ��΢���źڡ�;
-    font-weight: bold;
-}
