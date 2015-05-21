@@ -5,22 +5,11 @@ background-color: #ffffff;
 }
 .heading{
     background-color: #86dfd6;
-    height:6em;
+    height:3.5em;
     z-index: -999;
 }
 .search{
 
     color: #edeeeb;
     position: relative;
-
-
-    z-index: 5;
-}
-#position1{
-    position: relative;
-    z-index: 2;
-
-
-    display:block;
-
 }
