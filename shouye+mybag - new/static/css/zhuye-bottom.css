@@ -1,0 +1,26 @@
+.bottom_background{
+
+    background: url("background-3.jpg");
+    background-repeat:no-repeat;
+    background-position:center top;
+    background-attachment: scroll
+background-size:cover;
+    height:10%;
+    width:100%;
+}
+.shouye{
+    padding-top: 0%;
+    padding-left: 8%;
+}
+.buy{
+    margin-top: -12.5%;
+    margin-left:33%
+}
+.sell{
+    margin-top: -12.5%;
+    margin-left:59%
+}
+.my{
+    margin-top:-12.5%;
+    margin-left:83%;
+}
