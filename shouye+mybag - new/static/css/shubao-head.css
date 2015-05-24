@@ -7,11 +7,11 @@
     height:500px;
 }
 .title_background{
-    background: url("Title%20background-1.jpg");
+    background: url("../images/Title background-1.jpg");
     background-repeat:no-repeat;
     background-position:center top;
-    background-attachment: scroll
-background-size:cover;
+    background-attachment: scroll;
+    background-size:cover;
     margin:0 auto;
     height:10%;
     width:100%;
@@ -22,7 +22,7 @@ background-size:cover;
 }
 .text{
     font-size: 20px;
-    font-family: Î¢ÈíÑÅºÚ;
+    font-family: Î¢ï¿½ï¿½ï¿½Åºï¿½;
     color: #f8fff4;
     font-weight: 800;
     line-height:50px;
@@ -31,7 +31,7 @@ background-size:cover;
 }
 .bianji_text{
     font-size: 15px;
-    font-family: Î¢ÈíÑÅºÚ;
+    font-family: Î¢ï¿½ï¿½ï¿½Åºï¿½;
     font-weight: 800;
     color: darkcyan;
     margin-top: -14%;
