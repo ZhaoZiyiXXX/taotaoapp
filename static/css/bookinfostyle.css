@@ -7,12 +7,8 @@
     font-size: 100%;
 }
 .info{
-    background: url("../images/bookbg2.png")no-repeat;
-    background-size:contain;
-    background-position: center;
-    margin-top: 20px;
-    width: 176px;
-    height: 332px;
+    width:75%;
+    height:100%;
     font-family: Calibri ;
     color: #ffffff;
     font-weight: 400;
@@ -20,12 +16,21 @@
 .names{
      text-align: center;
      margin-top: 20px;
-     font-size:1.3em;
+     font-size:2em;
+     background-color:rgba(150,150,150,0.7) ;
+     border-top-left-radius:8px;
+     border-top-right-radius:8px;
+     padding:7%;
  }
 .infos {
-    margin-top: 30px;
     width: 100%;
     font-size:1.3em;
+    margin:0px auto 10px auto;
+    display: block;
+    padding:0 10px;
+    background-color: rgba(179,179,179,0.7);
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
 }
 tr{
     height:40px;
@@ -42,8 +47,9 @@ tr{
     float: right;
 }
 .inputs{
-    border-width:0.5px;
+    border-width:1px;
     border-style: solid;
+    border-color: #ffffff;
     background-color: transparent;
     width:85%;
     margin-left: 10%;
@@ -54,17 +60,9 @@ tr{
     background:url("../images/addtobag1.png")no-repeat;
     background-attachment: inherit ;
     background-size:100% 100%;
-    font-size: 1.2em;
-    padding: 2%;
-    margin-top: 13%;
-    float: right;
-}
-.settings{
-    margin-top: 30px;
-    width: 100%;
-    font-size:1.3em;
-    margin-left: 20%;
-    color: #ffffff;
+    font-size: 1em;
+    padding: 4%;
+    float:right;
 }
 .info a{
     color: #ffffff;
@@ -87,19 +85,16 @@ tr{
     outline:none;
 }
 .types{
-    margin-top: 30px;
     width: 100%;
     font-size:1.0em;
-    margin-left: 10%;
 }
 .typess{
     border: none;
     background:url("../images/addtobag1.png")no-repeat;
     background-attachment: scroll ;
     background-size:100% 100%;
+    margin-left: 15%;
 }
 .back{
-    margin-top: 20%;
-    float: right;
-    margin-right: 5%;
+    float:right;
 }
