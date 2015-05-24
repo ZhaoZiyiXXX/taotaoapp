@@ -1,0 +1,22 @@
+.middle_background{
+
+    background: url("background-2.jpg");
+    background-repeat:no-repeat;
+    background-position:center top;
+    background-attachment: scroll
+background-size:cover;
+    height:80%;
+    width:100%;
+}
+.icon-left{
+    padding-top: 50%;
+    padding-left: 5%;
+}
+.ticket{
+    margin-top: -53%;
+    margin-left: 15%;
+}
+.icon-right{
+    margin-top: -69%;
+    margin-left: 83.5%;
+}
