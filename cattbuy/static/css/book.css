@@ -1,0 +1,41 @@
+.back{
+    background:url("../images/shukuang.png") no-repeat;
+    background-position:5% 10%;
+    background-size: 94% 100%;
+    position: relative;
+}
+.book1{
+    width:23%;
+    height:18%;
+    position:relative;
+    display:block;
+    float:left;
+    margin:0 0 5% 5%;
+}
+.addbag{
+    width:18.8%;
+    height:2%;
+    position:relative;
+    margin:0 0 5% 35%;
+}
+.bookname{
+    font-size:0.6em;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 5% 12% 0 30%;
+}
+.price{
+    position:relative;
+    color:orangered;
+    font-size:0.8em;
+    font-family:sans-serif;
+    font-weight:bold;
+    margin:5% 0 0 32%;
+}
+.stock{
+    position:relative;
+    font-size: 0.5em;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 5% 0 3% 60%;
+}
