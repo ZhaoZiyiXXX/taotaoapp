@@ -1,0 +1,46 @@
+.main1{
+    margin: 0;
+    padding: 0;
+}
+.background1{
+    background-image: url("µÇÂ½Ò³±³¾°.jpg");
+    background-size: cover;
+    background-position: center top;
+    height:100%;
+    width:100%;
+}
+.logo{
+    padding-top: 25%;
+    text-align: center;
+}
+.rg_icon{
+    padding-top:15%;
+    margin-left: 8%;
+}
+.textbox1{
+    font-size: 8px;
+}
+.pw_icon{
+    margin-top:8%;
+    margin-left:8%;
+}
+.textbox2{
+    font-size: 8px;
+}
+.rg_click{
+    padding-top: 8%;
+    text-align: center;
+}
+.text1{
+    font-size: 12px;
+    padding-top: 5%;
+    margin-left: 6%;
+    color: #25786c;
+}
+.text2{
+    font-size:12px;
+    margin-top: -12px;
+    margin-left: 73%;
+    color:#25786c;
+    padding-bottom: 50%;
+}

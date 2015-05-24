@@ -1,0 +1,36 @@
+*{ margin: 0px;
+    padding: 0px;}
+body{
+background-color: #ffffff;
+}
+.heading{
+    background-color: #86dfd6;
+    height:3.5em;
+    z-index: -999;
+}
+.toptext{
+    color:snow;
+    font-size:1.5em;
+    font-weight:bold;
+    width:60%;
+    margin:5% 0 0 20%;
+    display:block;
+    float:left;
+    text-align:center;
+}
+
+.soulei{
+    float:right;
+    width:10%;
+    margin-top:8%;
+    margin-right:5%;
+}
+.search{
+    color: #edeeeb;
+    position: relative;
+}
+.sousuo{
+    width:60%;
+    height:10%;
+    margin:5% 0 3% 18%;
+}
