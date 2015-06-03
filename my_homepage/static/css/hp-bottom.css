@@ -1,0 +1,25 @@
+.bottom_background{
+    background: url("../images/Bottom_background.jpg");
+    background-size: cover;
+    background-position:center top;
+    background-attachment: scroll;
+    height:10%;
+    width:100%;
+    margin-top:0;
+}
+.icon1{
+    padding-top:5%;
+    margin-left:10%;
+}
+.icon2{
+    margin-top:-36px;
+    margin-left:35%;
+}
+.icon3{
+    margin-top:-36px;
+    margin-left:60%;
+}
+.icon4{
+    margin-top:-36px;
+    margin-left: 85%;
+}

@@ -1,0 +1,15 @@
+.main1{
+    margin: 0;
+    padding: 0;
+}
+.background1{
+    background-image: url("../images/登陆页背景.jpg");
+    background-size: cover;
+    background-position: center top;
+    height:100%;
+    width:100%;
+}
+.logo1{
+    padding-top: 25%;
+    text-align: center;
+}

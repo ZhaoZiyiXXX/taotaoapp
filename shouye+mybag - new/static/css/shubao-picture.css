@@ -1,6 +1,6 @@
 .middle_background{
 
-    background: url("background-2.jpg");
+    background: url("../images/background-2.jpg");
     background-repeat:no-repeat;
     background-position:center top;
     background-attachment: scroll
