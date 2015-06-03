@@ -1,15 +1,26 @@
 .bottom{
-    position: relative;
+    position: fixed;
+    background: url("../images/Bottom_background.jpg");
+    background-size: cover;
+    background-position:center top;
+    background-attachment: scroll;
+    height:10%;
+    width:100%;
+    bottom:0;
 }
-#bottom1{
-    position: relative;
+.bottom1{
+    padding-top:5%;
+    margin-left:10%;
 }
-#bottom2{
-    position: relative;
+.bottom2{
+    margin-top:-36px;
+    margin-left:35%;
 }
-#bottom3{
-    position: relative;
+.bottom3{
+    margin-top:-36px;
+    margin-left:60%;
 }
-#bottom4{
-    position: relative;
+.bottom4{
+    margin-top:-36px;
+    margin-left: 85%;;
 }
